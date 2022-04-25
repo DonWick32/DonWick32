@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nitish, a freshman persuing Computer Science and Engineering in NIT Trichy.
-- 👀 I’m interested in Competitive Progamming, Game development and AI/ML.
+- 👀 I’m interested in Competitive Programming, Game development and AI/ML.
 - 🌱 I’m currently learning C++ and advanced Python.
-- 💞️ I’m looking to collaborate on Python and C++ simpler projects.
+- 💞️ I’m looking to collaborate on simple Python and C++ projects.
 <!--
 - 📫 How to reach me ...
 

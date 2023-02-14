@@ -13,9 +13,6 @@
 
 ![top-lang]
 
-![streaks]
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=DonWick32&theme=react-dark&hide_border=true&area=true)
 
 
 <!--
